@@ -1,5 +1,7 @@
 # <a id="table-of-contents"/>Table of Contents
 
+Also known as "the style guide" this document details how to properly format or "style" your code.
+
 - [C++](#c)
 - [Lua](#lua)
 - [SQL](#sql)
